@@ -1,0 +1,11 @@
+Numba Target PTX: 8.2
+
+Running CPU forward pass...
+CPU forward pass time: 4.3806 seconds
+CPU softmax row sum: 1.0
+Forward pass output shape: (256, 256)
+GPU forward pass time: 323.587 ms
+
+Speedup:
+GPU is 13.54x faster than CPU
+Softmax row sum check: 1.0
