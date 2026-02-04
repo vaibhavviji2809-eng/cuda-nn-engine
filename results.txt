@@ -1,0 +1,14 @@
+Numba Target PTX: 8.2
+Running CPU version...
+CPU Time: 33.6060 seconds
+Running Naive CUDA version...
+Naive CUDA Time: 0.1445 seconds
+Running Tiled CUDA version...
+Tiled CUDA Time: 0.1038 seconds
+Verifying correctness...
+Naive correct: True
+Tiled correct: True
+
+Speedups:
+Naive CUDA speedup: 232.56x
+Tiled CUDA speedup: 323.82x
